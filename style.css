@@ -1,0 +1,10 @@
+.selects {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-account {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
